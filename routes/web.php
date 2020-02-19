@@ -70,4 +70,6 @@ Route::group(['prefix' => 'admin', 'as' => 'admin.', 'namespace' => 'Admin', 'mi
 //    Search
     Route::resource('search', 'SearchController');
     Route::get('/findCatName','SearchController@findCatName');
+    Route::get('/findExpName','SearchController@findExpName');
+
 });

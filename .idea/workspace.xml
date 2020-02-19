@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6f074aa-e48e-4f52-a208-ff4941d2cd4a" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="d6f074aa-e48e-4f52-a208-ff4941d2cd4a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/innovatives.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/innovatives.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Admin/SearchController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/SearchController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Laboure.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Laboure.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/search/searchByCat.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/search/searchByCat.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +19,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -124,21 +133,16 @@
   </component>
   <component name="ProjectId" id="1WOl1TdZStmXM7JwJd6ViX6xejs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="yarn" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -171,10 +175,22 @@
       <workItem from="1581436442457" duration="1970000" />
       <workItem from="1581744265543" duration="4517000" />
       <workItem from="1581750890047" duration="7336000" />
+      <workItem from="1582045420988" duration="1547000" />
+      <workItem from="1582121908682" duration="80000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="464" y="161" width="1125" height="919" key="SettingsEditor" timestamp="1582046144332">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="464" y="161" width="1125" height="919" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1582046144332" />
+    <state x="630" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1582121921717">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="630" y="367" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1582121921717" />
   </component>
 </project>
